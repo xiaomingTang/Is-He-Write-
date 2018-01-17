@@ -1,4 +1,4 @@
-# Is-He-Write-
+# Is-He-Write
 Input a  novel and a tested article, output the rate of same sentence pattern between input novel and tested article.(just available to Chinese as the different separator between zh and en.)
 
 
